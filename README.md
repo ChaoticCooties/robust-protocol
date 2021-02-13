@@ -1,8 +1,14 @@
-# Reed-Solomon-approach
-Robust protocol written in Python
+## Reed-Solomon Robust Protocol
 
-Reed-Solomon Implementation
+Robust protocol written in C.
+
+Uses multithreaded parallel client/server to maximize performance.
+
+BRS implementation
 
 ## TODO
-- Transpile into Cython
-- Optimize MTU and ECC Symbol values (general.py)
+- Implement Q-learning to generate optimized parameters
+- Swap Fast-Fourier Transform to Number Theoretic Transform
+
+## References
+- Wikiversity
